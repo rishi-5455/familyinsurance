@@ -1,0 +1,18 @@
+# Node
+frontend/node_modules/
+frontend/.next/
+
+# Python
+backend/.venv/
+backend/__pycache__/
+backend/.pytest_cache/
+blockchain/.venv/
+blockchain/__pycache__/
+
+# Env
+backend/.env
+frontend/.env.local
+blockchain/.env
+
+# Build
+blockchain/build/

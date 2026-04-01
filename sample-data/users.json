@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Admin One",
+    "email": "admin@insurance.com",
+    "password": "Admin@123",
+    "role": "admin",
+    "walletAddress": ""
+  },
+  {
+    "name": "Policy Holder",
+    "email": "user@insurance.com",
+    "password": "User@123",
+    "role": "user",
+    "walletAddress": ""
+  },
+  {
+    "name": "City Hospital",
+    "email": "verifier@hospital.com",
+    "password": "Verifier@123",
+    "role": "verifier",
+    "walletAddress": ""
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "claimId": "CLM-DEMO00001",
+    "policyId": "POL-DEMO000001",
+    "userId": "<replace-user-id>",
+    "documents": ["QmExampleIpfsHash"],
+    "status": "submitted"
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "policyId": "POL-DEMO000001",
+    "userId": "<replace-user-id>",
+    "familyMembers": [{ "name": "Jane", "relation": "Spouse", "age": 34 }],
+    "coverage": 150000,
+    "expiry": "2027-03-30T00:00:00Z",
+    "status": "active",
+    "claimStatus": "none"
+  }
+]

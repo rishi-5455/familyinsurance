@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --ink: #0f172a;
+  --paper: #f8fafc;
+}
+
+body {
+  color: var(--ink);
+  background: radial-gradient(circle at 15% 10%, #cffafe 0%, transparent 35%),
+    radial-gradient(circle at 85% 20%, #a7f3d0 0%, transparent 35%),
+    var(--paper);
+}
+
+input,
+select,
+textarea {
+  @apply w-full rounded-lg border border-slate-300 px-3 py-2 text-sm outline-none focus:border-cyan-600;
+}
+
+button {
+  @apply rounded-lg px-4 py-2 text-sm font-medium transition;
+}
